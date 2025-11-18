@@ -85,6 +85,10 @@ CÁCH SỬ DỤNG:
   + Hiển thị tống số tác vụ và số tác vụ bạn đang làm/đã hàn thành
   + Theo dõi tỉ lệ hoàn thành tác vụ của bạn
 
+- Chỉnh sửa sáng/tối:
+  + Bạn có thể thay đổi sáng/tối ở nút bên cạnh logo Task Manaager
+  + Hoặc thông qua phần Cài Đặt
+
 PHẦN THIẾT KẾ:
 
 App được thiết kế cẩn thận bawfng những gam màu khác nhau:
